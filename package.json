@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DmitriyGovosyants/carcassonne#readme",
   "devDependencies": {
     "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "joi": "^17.6.0"
   }
 }
