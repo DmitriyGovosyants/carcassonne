@@ -1,0 +1,23 @@
+{
+  "name": "carcassonne",
+  "version": "1.0.0",
+  "description": "carcassonne-game",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyGovosyants/carcassonne.git"
+  },
+  "author": "DMITRIY_GOVOSYANTS <demiangvs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyGovosyants/carcassonne/issues"
+  },
+  "homepage": "https://github.com/DmitriyGovosyants/carcassonne#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
